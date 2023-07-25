@@ -1,0 +1,10 @@
+* cl-mock
+
+Mocking functions. Please get in touch to discuss features! Only regular functions available for now.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Ferada/cl-mock.git   |
+| commit  | 01762fd  |
+| systems | cl-mock |
+|---------+-------------------------------------------|
+
